@@ -1,4 +1,4 @@
-# Java SE Persisting Data Course
+# Java SE Persistent data Course
 
 ##### Table of contents
 * [Introduction](#introduction) 
